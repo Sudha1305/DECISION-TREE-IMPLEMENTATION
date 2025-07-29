@@ -82,3 +82,8 @@ Conclusion:
 4.The ability to visualize decision logic through tree structures.
 
 A strong foundation for transitioning to advanced machine learning techniques.
+
+**OUTPUT:**
+
+<img width="1037" height="718" alt="Image" src="https://github.com/user-attachments/assets/4eae3c9a-2021-443f-b522-11884024454c" />
+
